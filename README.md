@@ -1,4 +1,4 @@
-# 🀄 ShengCi （ 生词 ） - Chinese Vocabulary App
+# 🀄 ShengCi（ 生词 ）- Chinese Vocabulary App
 
 <div align="center">
 
