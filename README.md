@@ -91,7 +91,7 @@ git clone https://github.com/Yusi-21/Shengci-Chinese.git
 - ShengCiScreen - экран изучения слов (китайский-английский)
 - FuxiScreen - экран повторения и проверки знаний
 - ShengCiViewModel - управление состоянием и логикой
-- Навигация через Compose Navigation
+- Навигация - через Compose Navigation
 ```
 
 
