@@ -49,7 +49,11 @@ ShengCi - это современное Android-приложение для эф
 
 
 ## 📸 Скриншоты
+<div align="center">
 
+<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/video_white.mp4" width="30%" alt="review-1"/>
+
+</div>
 
 
 
