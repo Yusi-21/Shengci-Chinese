@@ -96,9 +96,14 @@ fun MainTopAppBar(modifier: Modifier = Modifier) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Image(
                     modifier = Modifier
-                        .size(64.dp)
+                        .size(52.dp)
                         .padding(8.dp)
-                        .clip(CircleShape),
+                        .clip(CircleShape)
+                        .border(
+                                width = 1.dp,
+                                color = Color.Green,
+                                shape = RoundedCornerShape(50.dp)
+                            ),
                     painter = painterResource(R.drawable.icon_panda_main),
                     contentDescription = null,
                     contentScale = ContentScale.Crop
