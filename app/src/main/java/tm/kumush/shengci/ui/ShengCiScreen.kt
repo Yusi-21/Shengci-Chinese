@@ -125,10 +125,11 @@ fun ShengCiScreen(
                     onClick = { onFuxiClicked(unitId) },
                     modifier = Modifier
                         .fillMaxWidth()
+                        .padding(start = 20.dp, end = 20.dp)
                         .clip(RoundedCornerShape(25.dp))
                         .border(
                             width = 2.dp,
-                            color = Color.Blue,
+                            color = Color.Green,
                             shape = RoundedCornerShape(25.dp)
                         ),
                     colors = ButtonDefaults.buttonColors(
