@@ -51,8 +51,8 @@ ShengCi （ 生词 ） - это современное Android-приложен�
 ## 📸 Скриншоты
 <div align="center">
 
-<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot1_black.jpg" width="20%" alt="review-1"/>
-<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot2_black.jpg" width="20%" alt="review-2"/>
+<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot5_black.jpg" width="20%" alt="review-1"/>
+<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot6_black.jpg" width="20%" alt="review-2"/>
 <img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot3_black.jpg" width="20%" alt="review-3"/>
 <img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot4_black.jpg" width="20%" alt="review-4"/>
 
@@ -62,8 +62,8 @@ ShengCi （ 生词 ） - это современное Android-приложен�
 
 <div align="center">
 
-<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot1_white.jpg" width="20%" alt="review-1"/>
-<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot2_white.jpg" width="20%" alt="review-2"/>
+<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot5_white.jpg" width="20%" alt="review-1"/>
+<img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot6_white.jpg" width="20%" alt="review-2"/>
 <img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot3_white.jpg" width="20%" alt="review-3"/>
 <img src="https://github.com/Yusi-21/Shengci-Chinese/raw/main/app/src/main/res/drawable/screenshot4_white.jpg" width="20%" alt="review-4"/>
 
